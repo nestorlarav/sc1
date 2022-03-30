@@ -15,7 +15,6 @@
 		z-index: -1;
 		top: 0;left: 0;
 		background-image: url(https://www.xtrafondos.com/wallpapers/estructura-abstracta-3d-gris-oscuro-3593.jpg);
-		background-color: rgba(0,0,0,0.3);
 		background-size: 100vw 100vh;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -116,7 +115,7 @@
 		width: 100%;
 		max-width: 300px;
 		background: #1c1c1c;
-		height: 100vh;
+		height: 100%;
 		position: relative;
 		transition: all 500ms ease;
 		transform: translateX(-100%);
