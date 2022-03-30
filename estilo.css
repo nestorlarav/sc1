@@ -19,6 +19,9 @@
 		background: rgba(0,0,0,0.3);
 		z-index: -1;
 		top: 0;left: 0;
+		background-size: 100vw 100vh;
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 	/*Estilos para el encabezado*/
 	.header{
